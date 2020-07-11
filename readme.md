@@ -4,7 +4,4 @@ UGF.Issues
 
 ## Description
 
-This is a **Issues** repsotiory for the `Unity Game Framework` organization.
-
----
-> Unity Game Framework | Copyright 2019
+This is a **Issues** repository for the `Unity Game Framework` organization.
